@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KotlinRetrofitDemo</string>
+    <string name="description">"This is a Retrofit demo project. \n It gets data from an remote REST endpoint. \n For testing the endpoint is <b>https://jsonplaceholder.typicode.com/</b>."</string>
+    <string name="fetchPost">Fetch Post</string>
+    <string name="no_post_id">No Post ID defined!</string>
+    <string name="post_title">Title:</string>
+    <string name="post_description">Description:</string>
+    <string name="invalid_post_id">Invalid Post ID</string>
+    <string name="request_error">\"Request Error: \"</string>
+    <string name="post_id">PostID:</string>
+</resources>
